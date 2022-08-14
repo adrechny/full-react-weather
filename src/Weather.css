@@ -1,5 +1,5 @@
 :root {
-  --primary-color: rgb(169, 16, 121);
+  --primary-color: #041c32;
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -76,4 +76,7 @@
 
 .WeatherIcon {
   color: var(--primary-color);
+}
+footer {
+  text-align: center;
 }
